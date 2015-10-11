@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="mnemonic.com.pl.fuelconsumptioncalculator" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".start"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".fastCalculation"
+            android:label="@string/title_activity_fast_calculation"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".registeredCalculation"
+            android:label="@string/title_activity_registered_calculation"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".Consumption"
+            android:label="@string/title_activity_consumption"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".EntryList"
+            android:label="@string/title_activity_entry_list"
+            android:screenOrientation="portrait">
+        </activity>
+    </application>
+
+</manifest>

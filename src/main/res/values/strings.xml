@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Fuel Consumption Calculator</string>
+    <string name="hello">Choose an option from the below:</string>
+    <string name="action_settings">Settings</string>
+    <string name="fast">Fast one-time calculation</string>
+    <string name="calc">Calculate + save result</string>
+    <string name="hist">View refueling history</string>
+    <string name="man">Manage entries</string>
+    <string name="title_activity_fast_calculation">Fast Calculation</string>
+    <string name="camel">Does not work yet</string>
+    <string name="fuel">Enter amount of fuel (LITRES)</string>
+    <string name="Distance">Enter amount of KILOMETERS traveled before refuelling </string>
+    <string name="title_activity_registered_calculation">Calculate and save</string>
+    <string name="title_activity_consumption">Consumption</string>
+    <string name="yourinfoc">Fuel consumption:</string>
+    <string name="yourinfocc">Amount of fuel:</string>
+    <string name="carconsumptiondet">Fuel consumption:</string>
+    <string name="shortinfo">entry has been added to database</string>
+    <string name="enterdata">Consumption is:</string>
+    <string name="shortinfo2">Distance:</string>
+    <string name="BACKTOMAIN">Main Menu</string>
+    <string name="CONFIRM">CONFIRM</string>
+    <string name="title_activity_entry_list">Refueling List</string>
+    <string name="sumup">Entry to be added to the database</string>
+    <string name="exit">QUIT APP</string>
+
+</resources>
